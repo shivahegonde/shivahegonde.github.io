@@ -1,6 +1,6 @@
 # shivahegonde.github.io
 
-#### *Jimit Dholakia*
+#### *Shivkumar Hegonde*
 
 * LinkedIn: [shivahegonde](https://in.linkedin.com/in/shivahegonde "LinkedIn Profile")
 * GitHub: [shivahegonde](https://github.com/shivahegonde "GitHub Profile")
